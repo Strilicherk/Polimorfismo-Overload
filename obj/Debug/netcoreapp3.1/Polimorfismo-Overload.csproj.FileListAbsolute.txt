@@ -1,0 +1,13 @@
+D:\Escolar\SENAI\GitHub\Backend\Polimorfismo-Overload\bin\Debug\netcoreapp3.1\Polimorfismo-Overload.exe
+D:\Escolar\SENAI\GitHub\Backend\Polimorfismo-Overload\bin\Debug\netcoreapp3.1\Polimorfismo-Overload.deps.json
+D:\Escolar\SENAI\GitHub\Backend\Polimorfismo-Overload\bin\Debug\netcoreapp3.1\Polimorfismo-Overload.runtimeconfig.json
+D:\Escolar\SENAI\GitHub\Backend\Polimorfismo-Overload\bin\Debug\netcoreapp3.1\Polimorfismo-Overload.runtimeconfig.dev.json
+D:\Escolar\SENAI\GitHub\Backend\Polimorfismo-Overload\bin\Debug\netcoreapp3.1\Polimorfismo-Overload.dll
+D:\Escolar\SENAI\GitHub\Backend\Polimorfismo-Overload\bin\Debug\netcoreapp3.1\Polimorfismo-Overload.pdb
+D:\Escolar\SENAI\GitHub\Backend\Polimorfismo-Overload\obj\Debug\netcoreapp3.1\Polimorfismo-Overload.csprojAssemblyReference.cache
+D:\Escolar\SENAI\GitHub\Backend\Polimorfismo-Overload\obj\Debug\netcoreapp3.1\Polimorfismo-Overload.AssemblyInfoInputs.cache
+D:\Escolar\SENAI\GitHub\Backend\Polimorfismo-Overload\obj\Debug\netcoreapp3.1\Polimorfismo-Overload.AssemblyInfo.cs
+D:\Escolar\SENAI\GitHub\Backend\Polimorfismo-Overload\obj\Debug\netcoreapp3.1\Polimorfismo-Overload.csproj.CoreCompileInputs.cache
+D:\Escolar\SENAI\GitHub\Backend\Polimorfismo-Overload\obj\Debug\netcoreapp3.1\Polimorfismo-Overload.dll
+D:\Escolar\SENAI\GitHub\Backend\Polimorfismo-Overload\obj\Debug\netcoreapp3.1\Polimorfismo-Overload.pdb
+D:\Escolar\SENAI\GitHub\Backend\Polimorfismo-Overload\obj\Debug\netcoreapp3.1\Polimorfismo-Overload.genruntimeconfig.cache
